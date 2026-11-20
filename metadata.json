@@ -1,0 +1,8 @@
+{
+  "name": "Delamaris — Taste of the Sea Since 1879",
+  "description": "Premium European seafood and Mediterranean canned fish specialties crafted with natural ingredients and Adriatic heritage since 1879.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
